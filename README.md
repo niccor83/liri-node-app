@@ -22,8 +22,13 @@ __Instructions on how to run the app:__
 * notice that is you parameter contains multiple words you will need to put a "-" inbetween each word or add quotation marks around the parameter ex. "toy story 4".
 
 __Link to video of app in use__  [Liri_bot]https://drive.google.com/file/d/1KMnaYbvZXZ_Ciu8ZOE4VXaSw2vu3YWSm/view
+
 __Link to a deployed version of the app__
+
 __Technologies used in the app__ Node.js, Javascript, Axios, APIs(OMDB, Spotify, & Bandsintown)
+
 __My role in the app development__ I was the only developer
+
 __Where users can get help with your project:__ niccor83@gmail.com
+
 __Who maintains and contributes to the project:__ Nick Reed
